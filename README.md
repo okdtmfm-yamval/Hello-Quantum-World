@@ -32,13 +32,18 @@ Hello Quantum World（HQW）は、
 
 ## 🖼 スクリーンショット
 
-※ GitHub に画像をアップロードして、以下のように貼り付けてください
-
-```
+### Welcome 画面
 ![welcome](images/welcome.png)
+
+### メイン画面（握手前）
 ![index](images/index.png)
-![result](images/result.png)
-```
+
+### 結果画面（通常）
+![result-normal](images/result-normal.png)
+
+### 結果画面（量子トンネル効果）
+![result-quantum](images/result-quantum.png)
+
 
 ---
 
